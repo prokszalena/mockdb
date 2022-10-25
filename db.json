@@ -1,0 +1,12 @@
+{
+  "books": [
+    { "id": 1, "author": "Dante Alighieri", "title": "Isteni színjáték", "originalTitle": "La Divina Commedia", "publicationYear": 1321, "read": true, "comment": "Az olasz irodalom egyik legfontosabb műve" },
+     { "id": 2, "author": "Italo Svevo", "title": "Zeno tudata", "originalTitle": "La coscenza di Zeno", "publicationYear": 1923, "read": true, "comment": "Századunk olasz irodalmának egyik legjelentősebb alkotása" },
+     { "id": 3, "author": "Niccolò Machiavelli", "title": "A fejedelem", "originalTitle": "Il Pincipe", "publicationYear": 1532, "read": false, "comment": "" },
+     { "id": 4, "author": "Ugo Foscolo", "title": "Jacopo Ortisz utolsó levelei", "originalTitle": "Ultime lettere di Jacopo Ortis", "publicationYear": 1802, "read": false, "comment": "" },
+     { "id": 5, "author": "Alessandro Manzoni", "title": "A jegyesek", "originalTitle": "I promessi sposi", "publicationYear": 1827, "read": false, "comment": "" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
